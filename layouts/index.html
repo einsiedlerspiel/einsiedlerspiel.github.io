@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ partial "cover.html" . }}
+{{ if .Title }}
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+{{ end }}
+  {{ if .Content }}
+    <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
+      {{ .Content }}
+    </div>
+  {{ end }}
+{{ end }}
