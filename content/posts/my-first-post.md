@@ -15,3 +15,23 @@ this is a post in `which` i'll ~~try~~ ~~out~~ all <span class="underline">kinds
   (declare ignore str)
   (print "Hello World))
 ```
+
+
+## let's also add a heading {#let-s-also-add-a-heading}
+
+It's kinda impotant to know how those work
+
+
+## aaaaand another one {#aaaaand-another-one}
+
+and wouldn't it be handy to also test subheadings?
+
+
+### sure! {#sure}
+
+
+#### have 2! {#have-2}
+
+<!--list-separator-->
+
+-  and more!
