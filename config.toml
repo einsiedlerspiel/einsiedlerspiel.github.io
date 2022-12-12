@@ -1,4 +1,4 @@
-baseurl = "https://einsiedlerspiel.github.io"
+baseurl = "/"
 title = "repetitions"
 languageCode = "en-us"
 theme = "terminal"
