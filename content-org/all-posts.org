@@ -18,7 +18,3 @@ test quote
     (declare ignore str)
     (print "Hello World))
 #+end_src
-
-
-#+DOWNLOADED: file:///home/lukas/Documents/blog/content/posts/cover.png @ 2022-11-20 01:33:48
-[[file:Test_Post/2022-11-20_01-33-48_cover.png]]
