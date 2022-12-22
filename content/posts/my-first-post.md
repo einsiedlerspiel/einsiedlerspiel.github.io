@@ -42,12 +42,7 @@ and a mastodoon post
 
 <https://todon.nl/@einsiedlerspiel/109557532922888143/>
 
-<iframe src="https://todon.nl/@einsiedlerspiel/109557532922888143/embed"
-class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
-allowfullscreen="allowfullscreen"></iframe>
-<script
-src="https://todon.nl/embed.js" async="async">
-</script>
+{{< toot link="https://todon.nl/@einsiedlerspiel/109557532922888143/embed" >}}
 
 <!--list-separator-->
 
