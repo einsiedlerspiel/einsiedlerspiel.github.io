@@ -33,6 +33,8 @@ Adding an embedded tweet.
 
 https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&t=ZFQCPYp2tQAQosb1f-vQXg
 
+{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+
 
 #### have 2! {#have-2}
 
