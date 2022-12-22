@@ -10,10 +10,12 @@ this is a post in `which` i'll ~~try~~ ~~out~~ all <span class="underline">kinds
 
 > test quote
 
-```common-lisp
+```lisp
 (defun test (str)
   (declare ignore str)
   (print "Hello World"))
+
+(defun ich-bin-neu ())
 ```
 
 
