@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>repetitions</title><link>https://einsiedlerspiel.github.io/</link><description>Recent content on repetitions</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://einsiedlerspiel.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://einsiedlerspiel.github.io/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://einsiedlerspiel.github.io/posts/my-first-post/</guid><description>this is a post in which i&amp;rsquo;ll try out all kinds of stuff relating to hugo
 test quote
-(defun test (str) (declare ignore str) (print &amp;#34;Hello World&amp;#34;)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
+(defun test (str) (declare ignore str) (print &amp;#34;Hello World&amp;#34;)) (defun ich-bin-neu ()) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
 embedding stuff (and also subheadings. note that this style doesn&amp;rsquo;t seem to distinguish between levels of subheadings.)
 tweets Adding an embedded tweet.
 https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg
@@ -8,9 +8,11 @@ Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.</description><content
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-common-lisp" data-lang="common-lisp">&lt;span style="display:flex;">&lt;span>(defun test (str)
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-lisp" data-lang="lisp">&lt;span style="display:flex;">&lt;span>(defun test (str)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">declare&lt;/span> &lt;span style="color:#66d9ef">ignore&lt;/span> str)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>(defun ich-bin-neu ())
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="let-s-also-add-a-heading">let&amp;rsquo;s also add a heading&lt;/h2>
 &lt;p>It&amp;rsquo;s kinda impotant to know how those work&lt;/p>
 &lt;h2 id="embedding-stuff">embedding stuff&lt;/h2>
