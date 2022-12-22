@@ -1,8 +1,8 @@
 +++
 title = "Test Post"
 author = ["lou."]
-tags = ["tag1"]
-categories = ["category1"]
+tags = ["test"]
+categories = ["testposts"]
 draft = false
 +++
 
@@ -31,14 +31,7 @@ and wouldn't it be handy to also test subheadings?
 
 Adding an embedded tweet.
 
-<blockquote
-class="twitter-tweet"><p lang="zxx" dir="ltr"><a
-href="https://t.co/DS0UmfOAyv">https://t.co/DS0UmfOAyv</a> <a
-href="https://t.co/ggEDPza5tp">pic.twitter.com/ggEDPza5tp</a></p>&mdash; lou.
-(@einsiedlerspiel) <a
-href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?ref_src=twsrc%5Etfw">December
-19, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&t=ZFQCPYp2tQAQosb1f-vQXg
 
 
 #### have 2! {#have-2}
