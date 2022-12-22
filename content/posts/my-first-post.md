@@ -30,14 +30,37 @@ and wouldn't it be handy to also test subheadings?
 ### sure! {#sure}
 
 Adding an embedded tweet.
+<https://twitter.com/SanDiegoZoo/status/1453110110599868418>
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+
 #### have 2! {#have-2}
 
 and a mastodoon post
 
-https://todon.nl/@einsiedlerspiel/109557532922888143/
+<https://todon.nl/@einsiedlerspiel/109557532922888143/>
+
+<iframe src="https://todon.nl/@einsiedlerspiel/109557532922888143/embed"
+class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
+allowfullscreen="allowfullscreen"></iframe>
+<script
+src="https://todon.nl/embed.js" async="async">
+</script>
 
 <!--list-separator-->
 
 -  and more!
+
+
+## here's a table {#here-s-a-table}
+
+| first | second | third |
+|-------|--------|-------|
+| test  | test2  | test3 |
+| test4 |        |       |
+
+and a slightly different one
+
+| key | value |
+|-----|-------|
+| 1   | 2     |
+|     |       |
