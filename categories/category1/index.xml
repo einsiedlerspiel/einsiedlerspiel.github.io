@@ -2,9 +2,10 @@
 test quote
 (defun test (str) (declare ignore str) (print &amp;#34;Hello World)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
 aaaaand another one and wouldn&amp;rsquo;t it be handy to also test subheadings?
-sure! Adding an embedded tweet.
-Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
-&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 have 2!</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
+sure! Adding an embedded tweet. https://twitter.com/SanDiegoZoo/status/1453110110599868418
+have 2! and a mastodoon post
+https://todon.nl/@einsiedlerspiel/109557532922888143/
+and more! here&amp;rsquo;s a table first second third test test2 test3 test4 and a slightly different one</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
@@ -16,13 +17,59 @@ Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
 &lt;h2 id="aaaaand-another-one">aaaaand another one&lt;/h2>
 &lt;p>and wouldn&amp;rsquo;t it be handy to also test subheadings?&lt;/p>
 &lt;h3 id="sure">sure!&lt;/h3>
-&lt;p>Adding an embedded tweet.&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Adding an embedded tweet.
+&lt;a href="https://twitter.com/SanDiegoZoo/status/1453110110599868418">https://twitter.com/SanDiegoZoo/status/1453110110599868418&lt;/a>&lt;/p>
 &lt;h4 id="have-2">have 2!&lt;/h4>
 &lt;p>and a mastodoon post&lt;/p>
 &lt;p>&lt;a href="https://todon.nl/@einsiedlerspiel/109557532922888143/">https://todon.nl/@einsiedlerspiel/109557532922888143/&lt;/a>&lt;/p>
+&lt;iframe src="https://todon.nl/@einsiedlerspiel/109557532922888143/embed"
+class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
+allowfullscreen="allowfullscreen">&lt;/iframe>
+&lt;script
+src="https://todon.nl/embed.js" async="async">
+&lt;/script>
 &lt;!--list-separator-->
 &lt;ul>
 &lt;li>and more!&lt;/li>
-&lt;/ul></content></item></channel></rss>
+&lt;/ul>
+&lt;h2 id="here-s-a-table">here&amp;rsquo;s a table&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>first&lt;/th>
+&lt;th>second&lt;/th>
+&lt;th>third&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>test&lt;/td>
+&lt;td>test2&lt;/td>
+&lt;td>test3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>test4&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>and a slightly different one&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>key&lt;/th>
+&lt;th>value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content></item></channel></rss>
