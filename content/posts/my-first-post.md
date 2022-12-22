@@ -44,7 +44,7 @@ and a mastodoon post
 
 {{< toot link="https://todon.nl/@einsiedlerspiel/109557532922888143/embed" >}}
 
-{{< link="https://todon.nl/@einsiedlerspiel/109513902417004697" >}}
+{{< toot link="https://todon.nl/@einsiedlerspiel/109513902417004697" >}}
 
 <!--list-separator-->
 
