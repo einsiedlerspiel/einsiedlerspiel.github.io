@@ -2,7 +2,10 @@
 test quote
 (defun test (str) (declare ignore str) (print &amp;#34;Hello World)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
 aaaaand another one and wouldn&amp;rsquo;t it be handy to also test subheadings?
-sure! have 2! and more!</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
+sure! Adding an embedded tweet. https://twitter.com/SanDiegoZoo/status/1453110110599868418
+have 2! and a mastodoon post
+https://todon.nl/@einsiedlerspiel/109557532922888143/
+and more!</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
@@ -14,7 +17,11 @@ sure! have 2! and more!</description><content>&lt;p>this is a post in &lt;code>w
 &lt;h2 id="aaaaand-another-one">aaaaand another one&lt;/h2>
 &lt;p>and wouldn&amp;rsquo;t it be handy to also test subheadings?&lt;/p>
 &lt;h3 id="sure">sure!&lt;/h3>
+&lt;p>Adding an embedded tweet.
+&lt;a href="https://twitter.com/SanDiegoZoo/status/1453110110599868418">https://twitter.com/SanDiegoZoo/status/1453110110599868418&lt;/a>&lt;/p>
 &lt;h4 id="have-2">have 2!&lt;/h4>
+&lt;p>and a mastodoon post&lt;/p>
+&lt;p>&lt;a href="https://todon.nl/@einsiedlerspiel/109557532922888143/">https://todon.nl/@einsiedlerspiel/109557532922888143/&lt;/a>&lt;/p>
 &lt;!--list-separator-->
 &lt;ul>
 &lt;li>and more!&lt;/li>
