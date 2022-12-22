@@ -30,7 +30,7 @@ and wouldn't it be handy to also test subheadings?
 ### sure! {#sure}
 
 Adding an embedded tweet.
-<https://twitter.com/SanDiegoZoo/status/1453110110599868418>
+https://twitter.com/SanDiegoZoo/status/1453110110599868418>
 
 
 #### have 2! {#have-2}
