@@ -3,8 +3,10 @@ test quote
 (defun test (str) (declare ignore str) (print &amp;#34;Hello World&amp;#34;)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
 aaaaand another one and wouldn&amp;rsquo;t it be handy to also test subheadings?
 sure! Adding an embedded tweet.
-https://t.co/DS0UmfOAyv pic.twitter.com/ggEDPza5tp
-&amp;mdash; lou. (@einsiedlerspiel) December 19, 2019 have 2! and a mastodoon post</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
+https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg
+have 2! and a mastodoon post
+https://todon.nl/@einsiedlerspiel/109557532922888143/
+and more! here&amp;rsquo;s a table first second third test test2 test3 test4 and a slightly different one</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
@@ -17,14 +19,7 @@ https://t.co/DS0UmfOAyv pic.twitter.com/ggEDPza5tp
 &lt;p>and wouldn&amp;rsquo;t it be handy to also test subheadings?&lt;/p>
 &lt;h3 id="sure">sure!&lt;/h3>
 &lt;p>Adding an embedded tweet.&lt;/p>
-&lt;blockquote
-class="twitter-tweet">&lt;p lang="zxx" dir="ltr">&lt;a
-href="https://t.co/DS0UmfOAyv">https://t.co/DS0UmfOAyv&lt;/a> &lt;a
-href="https://t.co/ggEDPza5tp">pic.twitter.com/ggEDPza5tp&lt;/a>&lt;/p>&amp;mdash; lou.
-(@einsiedlerspiel) &lt;a
-href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?ref_src=twsrc%5Etfw">December
-19, 2019&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>&lt;a href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg">https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg&lt;/a>&lt;/p>
 &lt;h4 id="have-2">have 2!&lt;/h4>
 &lt;p>and a mastodoon post&lt;/p>
 &lt;p>&lt;a href="https://todon.nl/@einsiedlerspiel/109557532922888143/">https://todon.nl/@einsiedlerspiel/109557532922888143/&lt;/a>&lt;/p>
