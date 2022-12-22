@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>testposts on repetitions</title><link>https://einsiedlerspiel.github.io/categories/testposts/</link><description>Recent content in testposts on repetitions</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://einsiedlerspiel.github.io/categories/testposts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://einsiedlerspiel.github.io/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://einsiedlerspiel.github.io/posts/my-first-post/</guid><description>this is a post in which i&amp;rsquo;ll try out all kinds of stuff relating to hugo
 test quote
 (defun test (str) (declare ignore str) (print &amp;#34;Hello World&amp;#34;)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
-aaaaand another one and wouldn&amp;rsquo;t it be handy to also test subheadings?
-sure! Adding an embedded tweet.
+embedding stuff (and also subheadings. note that this style doesn&amp;rsquo;t seem to distinguish between levels of subheadings.)
+tweets Adding an embedded tweet.
 https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg
-Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
-&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 have 2!</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
+Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
@@ -14,23 +13,17 @@ Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>))
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="let-s-also-add-a-heading">let&amp;rsquo;s also add a heading&lt;/h2>
 &lt;p>It&amp;rsquo;s kinda impotant to know how those work&lt;/p>
-&lt;h2 id="aaaaand-another-one">aaaaand another one&lt;/h2>
-&lt;p>and wouldn&amp;rsquo;t it be handy to also test subheadings?&lt;/p>
-&lt;h3 id="sure">sure!&lt;/h3>
+&lt;h2 id="embedding-stuff">embedding stuff&lt;/h2>
+&lt;p>(and also subheadings. note that this style doesn&amp;rsquo;t seem to distinguish between
+levels of subheadings.)&lt;/p>
+&lt;h3 id="tweets">tweets&lt;/h3>
 &lt;p>Adding an embedded tweet.&lt;/p>
 &lt;p>&lt;a href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg">https://twitter.com/einsiedlerspiel/status/1207715089224220672?s=20&amp;amp;t=ZFQCPYp2tQAQosb1f-vQXg&lt;/a>&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;h4 id="have-2">have 2!&lt;/h4>
-&lt;p>and a mastodoon post&lt;/p>
-&lt;p>&lt;a href="https://todon.nl/@einsiedlerspiel/109557532922888143/">https://todon.nl/@einsiedlerspiel/109557532922888143/&lt;/a>&lt;/p>
-&lt;iframe src="https://todon.nl/@einsiedlerspiel/109557532922888143/embed/embed"
-class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
-allowfullscreen="allowfullscreen">&lt;/iframe>
-&lt;script
-src="https://todon.nl/embed.js" async="async">
-&lt;/script>
-&lt;iframe src="https://todon.nl/@einsiedlerspiel/109513902417004697/embed"
+&lt;h4 id="toots">toots&lt;/h4>
+&lt;p>Embedding toots is implemented via a custom shortcode&lt;/p>
+&lt;iframe src="https://todon.nl/@einsiedlerspiel/109557532922888143/embed"
 class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
 allowfullscreen="allowfullscreen">&lt;/iframe>
 &lt;script
@@ -38,7 +31,10 @@ src="https://todon.nl/embed.js" async="async">
 &lt;/script>
 &lt;!--list-separator-->
 &lt;ul>
-&lt;li>and more!&lt;/li>
+&lt;li>
+&lt;p>and more!&lt;/p>
+&lt;p>as I&amp;rsquo;m writing this in org mode and export with ox-hugo 5* subehadeings become lists.&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="here-s-a-table">here&amp;rsquo;s a table&lt;/h2>
 &lt;table>
@@ -80,4 +76,31 @@ src="https://todon.nl/embed.js" async="async">
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></content></item></channel></rss>
+&lt;/table>
+&lt;h2 id="lists">lists&lt;/h2>
+&lt;p>we&amp;rsquo;ve already seen that lists can be created with org header but org also has
+support for lists so how are those handled?&lt;/p>
+&lt;h3 id="test-1">test 1&lt;/h3>
+&lt;ul>
+&lt;li>first&lt;/li>
+&lt;li>try&lt;/li>
+&lt;li>with&lt;/li>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="test-2">test 2&lt;/h3>
+&lt;ul>
+&lt;li>second&lt;/li>
+&lt;li>try&lt;/li>
+&lt;li>with +&lt;/li>
+&lt;/ul>
+&lt;h3 id="test-3">test 3&lt;/h3>
+&lt;ol>
+&lt;li>numbered&lt;/li>
+&lt;li>lists&lt;/li>
+&lt;li>are&lt;/li>
+&lt;li>cool&lt;/li>
+&lt;/ol></content></item></channel></rss>
