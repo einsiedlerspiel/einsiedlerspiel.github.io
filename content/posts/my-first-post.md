@@ -92,3 +92,35 @@ support for lists so how are those handled?
 2.  lists
 3.  are
 4.  cool
+
+
+## Let's {#let-s}
+
+also try some code snippets of a language where syntax highlighting probably
+works
+
+```bash
+#!/bin/bash
+
+# This script takes on Argument, checks whether that Argument is an existing
+# file ending in .pdf and if both conditions are met, rids it of any annotations
+# saving a copy of the original file with _(clean) atteached to the name.
+
+if [ -f "$1" ]; then
+    if [ ${1: -4} == ".pdf" ]; then
+        filename="${1/.pdf/_clean.pdf}"
+        pdftk "$1" output uncompressed.pdf uncompress
+        LANG=C sed -n '/^\/Annots/!p' uncompressed.pdf > stripped.pdf
+        pdftk stripped.pdf output "$filename" compress
+        rm uncompressed.pdf
+        rm stripped.pdf
+        echo Done!
+    else
+        echo "$1" is not a pdf
+        exit 1
+    fi
+else
+    echo "$1" does not exist
+    exit 1
+fi
+```
