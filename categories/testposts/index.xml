@@ -30,6 +30,12 @@ allowfullscreen="allowfullscreen">&lt;/iframe>
 &lt;script
 src="https://todon.nl/embed.js" async="async">
 &lt;/script>
+&lt;iframe src=https://todon.nl/@einsiedlerspiel/109513902417004697
+class="mastodon-embed" style="max-width: 100%; border: 0" width="400"
+allowfullscreen="allowfullscreen">&lt;/iframe>
+&lt;script
+src="https://todon.nl/embed.js" async="async">
+&lt;/script>
 &lt;!--list-separator-->
 &lt;ul>
 &lt;li>and more!&lt;/li>
