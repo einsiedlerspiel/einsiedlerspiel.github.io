@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>category1 on repetitions</title><link>https://einsiedlerspiel.github.io/categories/category1/</link><description>Recent content in category1 on repetitions</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://einsiedlerspiel.github.io/categories/category1/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://einsiedlerspiel.github.io/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://einsiedlerspiel.github.io/posts/my-first-post/</guid><description>this is a post in which i&amp;rsquo;ll try out all kinds of stuff relating to hugo
 test quote
-(defun test (str) (declare ignore str) (print &amp;#34;Hello World)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
+(defun test (str) (declare ignore str) (print &amp;#34;Hello World&amp;#34;)) let&amp;rsquo;s also add a heading It&amp;rsquo;s kinda impotant to know how those work
 aaaaand another one and wouldn&amp;rsquo;t it be handy to also test subheadings?
 sure! Adding an embedded tweet.
-have 2! and a mastodoon post
-https://todon.nl/@einsiedlerspiel/109557532922888143/
-and more! here&amp;rsquo;s a table first second third test test2 test3 test4 and a slightly different one</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
+https://t.co/DS0UmfOAyv pic.twitter.com/ggEDPza5tp
+&amp;mdash; lou. (@einsiedlerspiel) December 19, 2019 have 2! and a mastodoon post</description><content>&lt;p>this is a post in &lt;code>which&lt;/code> i&amp;rsquo;ll &lt;del>try&lt;/del> &lt;del>out&lt;/del> all &lt;span class="underline">kinds&lt;/span> of stuff &lt;em>relating&lt;/em> to &lt;strong>hugo&lt;/strong>&lt;/p>
 &lt;blockquote>
 &lt;p>test quote&lt;/p>
 &lt;/blockquote>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-common-lisp" data-lang="common-lisp">&lt;span style="display:flex;">&lt;span>(defun test (str)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#66d9ef">declare&lt;/span> &lt;span style="color:#66d9ef">ignore&lt;/span> str)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">print&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;&lt;/span>Hello World))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (&lt;span style="color:#a6e22e">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>))
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="let-s-also-add-a-heading">let&amp;rsquo;s also add a heading&lt;/h2>
 &lt;p>It&amp;rsquo;s kinda impotant to know how those work&lt;/p>
 &lt;h2 id="aaaaand-another-one">aaaaand another one&lt;/h2>
 &lt;p>and wouldn&amp;rsquo;t it be handy to also test subheadings?&lt;/p>
 &lt;h3 id="sure">sure!&lt;/h3>
 &lt;p>Adding an embedded tweet.&lt;/p>
+&lt;blockquote
+class="twitter-tweet">&lt;p lang="zxx" dir="ltr">&lt;a
+href="https://t.co/DS0UmfOAyv">https://t.co/DS0UmfOAyv&lt;/a> &lt;a
+href="https://t.co/ggEDPza5tp">pic.twitter.com/ggEDPza5tp&lt;/a>&lt;/p>&amp;mdash; lou.
+(@einsiedlerspiel) &lt;a
+href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?ref_src=twsrc%5Etfw">December
+19, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;h4 id="have-2">have 2!&lt;/h4>
 &lt;p>and a mastodoon post&lt;/p>
 &lt;p>&lt;a href="https://todon.nl/@einsiedlerspiel/109557532922888143/">https://todon.nl/@einsiedlerspiel/109557532922888143/&lt;/a>&lt;/p>
