@@ -13,7 +13,7 @@ this is a post in `which` i'll ~~try~~ ~~out~~ all <span class="underline">kinds
 ```common-lisp
 (defun test (str)
   (declare ignore str)
-  (print "Hello World))
+  (print "Hello World"))
 ```
 
 
@@ -30,6 +30,15 @@ and wouldn't it be handy to also test subheadings?
 ### sure! {#sure}
 
 Adding an embedded tweet.
+
+<blockquote
+class="twitter-tweet"><p lang="zxx" dir="ltr"><a
+href="https://t.co/DS0UmfOAyv">https://t.co/DS0UmfOAyv</a> <a
+href="https://t.co/ggEDPza5tp">pic.twitter.com/ggEDPza5tp</a></p>&mdash; lou.
+(@einsiedlerspiel) <a
+href="https://twitter.com/einsiedlerspiel/status/1207715089224220672?ref_src=twsrc%5Etfw">December
+19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 #### have 2! {#have-2}
